@@ -1,7 +1,7 @@
 # EnDa-Password-Generator
 The simpliest mode to create passwords with custom parameters, with your customizations!
 
-#Operations
+# Operations
 - Low strength
 - Medium strength
 - High strength
